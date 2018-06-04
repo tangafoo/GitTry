@@ -12,6 +12,7 @@
 		DDF93DFB20C5271200355DB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDF93DF920C5271200355DB1 /* Main.storyboard */; };
 		DDF93DFD20C5271200355DB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDF93DFC20C5271200355DB1 /* Assets.xcassets */; };
 		DDF93E0020C5271200355DB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDF93DFE20C5271200355DB1 /* LaunchScreen.storyboard */; };
+		DDF93E0820C5280400355DB1 /* MapItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF93E0720C5280400355DB1 /* MapItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DDF93DFC20C5271200355DB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDF93DFF20C5271200355DB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDF93E0120C5271200355DB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDF93E0720C5280400355DB1 /* MapItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DDF93DF520C5271200355DB1 /* AppDelegate.swift */,
 				DDF93DF720C5271200355DB1 /* ViewController.swift */,
 				DDF93DF920C5271200355DB1 /* Main.storyboard */,
+				DDF93E0720C5280400355DB1 /* MapItinerary.swift */,
 				DDF93DFC20C5271200355DB1 /* Assets.xcassets */,
 				DDF93DFE20C5271200355DB1 /* LaunchScreen.storyboard */,
 				DDF93E0120C5271200355DB1 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDF93E0820C5280400355DB1 /* MapItinerary.swift in Sources */,
 				DDF93DF820C5271200355DB1 /* ViewController.swift in Sources */,
 				DDF93DF620C5271200355DB1 /* AppDelegate.swift in Sources */,
 			);
